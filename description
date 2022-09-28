@@ -1,0 +1,34 @@
+Project name: Tomato farming guide: How to grow tomatoes step by step
+
+PARTICIPANTS: 
+SIBUSIKU NGOMA
+202108027
+MUTALE KATONGO
+202201087
+MWILA MILANDILE
+202208267
+
+
+
+
+    (a) Problem, Background and Justification
+ Introduction Tomato as a crop. 
+Tomatoes are an important part of a diverse and balanced diet. One medium fresh tomato (135g) provides 47% RDA of Vitamin C, 22% RDA Vitamin A and 25 calories (135g). Tomatoes are rich in the anti-oxidant lycopene, a compound that protects cells from oxidants that have been linked to cancer. Tomato ranks number one in contribution to diet in Zambia.  because of the large quantities consumed. Tomato is an important crop in Zambia.
+ The combination , and existing interactive networks of the team collective for this project will support its work and ultimate succeeded) 
+ Interactions with growers through Field Demonstrations to provide regular assessment of progress from our stakeholders towards the goal of improving tomato disease management obtain comments and input. Since this project is a collaborative effort among researchers and extension personnel, the results of our research will be disseminated in a variety of ways.
+
+
+
+However, to control and achieve  this as a team, the system software will be deployed. And its description is as follows:
+TASK DESCRIPTION:
+The goal of this task is to create a tomato growing guide software that will give a detailed guide of how to grow and look after tomato plants. The software will be controlled using a version control system i.e. Github version control system. Further, the software will be translated into a dynamic Django and mobile-based (react of flutter application). After translating the application into a mobile-based app, the software will be synchronized to enable the web app and mobile app to communicate. 
+The purpose of this this project is to create a web app where people interested in gardening can create accounts and track the right periods to start planting and treating their crops until they are ready to harvest.
+FEATURES
+The system seeks to create among other things a general account that can be accessible to users and  non users. Features of the tomato assistant
+1. A user can visit the app or site and learn about tomato growing by reading a guide, search for videos to watch
+2. The user can post and share on a given topic. (Discussion section) 
+3. A user can seek help from other growers. (help section)
+4. A user can download a pdf guide from the site.
+5. Farmers can share their progress and other farmer can follow through and comment 
+Bonus
+5. A user can create a task (from land preparation to harvesting). The platform can send reminders to the user on what next to do. E. G spraying
